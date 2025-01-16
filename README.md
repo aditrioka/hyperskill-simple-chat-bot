@@ -28,4 +28,4 @@ Through this project, I learned:
 - Function organization and program structure
 
 ## Acknowledgements
-Project provided by Hyperskill: [Simple Chatbot (Kotlin)](https://hyperskill.org/projects/195)
+Project provided by Hyperskill: [Simple Chatbot (Kotlin)](https://hyperskill.org/projects/126)
